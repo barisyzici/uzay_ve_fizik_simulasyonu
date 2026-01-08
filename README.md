@@ -41,15 +41,16 @@ Her deney, Merkür’den Pluto’ya kadar farklı gezegenler için hesaplama yap
 Gezegenlerin yerçekimi ivmeleri bir dizi içinde tutulmuştur (m/s²):
 
 Gezegen Yerçekimi
-+Merkür 3.70
-+Venüs 8.87
-+Dünya 9.81
-+Mars  3.71
-+Jüpiter 24.79
-+Satürn 10.44
-+Uranüs 8.69
-+Neptün	11.15
-+Pluto	0.62
+
+Merkür 3.70
+Venüş 8.87
+Dünya 9.81
+Mars 3.71
+Jüpiter 24.79
+Satürn 10.44
+Üranüs 8.69
+Neptün 11.15
+Plato 0.62
 
 Dizi elemanlarına yalnızca pointer mantığıyla erişilmektedir.
 
