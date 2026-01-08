@@ -40,14 +40,14 @@ Her deney, Merkür’den Pluto’ya kadar farklı gezegenler için hesaplama yap
 
 Gezegenlerin yerçekimi ivmeleri bir dizi içinde tutulmuştur (m/s²):
 
-Gezegen	Yerçekimi
-Merkür	3.70
-Venüs	8.87
-Dünya	9.81
-Mars	3.71
-Jüpiter	24.79
-Satürn	10.44
-Uranüs	8.69
+Gezegen Yerçekimi
+Merkür 3.70
+Venüs 8.87
+Dünya 9.81
+Mars  3.71
+Jüpiter 24.79
+Satürn 10.44
+Uranüs 8.69
 Neptün	11.15
 Pluto	0.62
 
@@ -57,16 +57,16 @@ Dizi elemanlarına yalnızca pointer mantığıyla erişilmektedir.
 
 * Tüm deneyler ayrı fonksiyonlar olarak yazılmıştır
 
-*Fonksiyonlara diziler pointer olarak gönderilmiştir
+* Fonksiyonlara diziler pointer olarak gönderilmiştir
 
-*Negatif girilen kütle, uzunluk, süre ve hacim değerleri
+* Negatif girilen kütle, uzunluk, süre ve hacim değerleri
 → ternary operatörü kullanılarak mutlak değere çevrilmiştir
 
-*Deneyler bir menü üzerinden tekrar tekrar seçilebilir
+* Deneyler bir menü üzerinden tekrar tekrar seçilebilir
 
-*-1 girildiğinde program güvenli şekilde sonlanır
+* -1 girildiğinde program güvenli şekilde sonlanır
 
-*Tüm çıktılar birimleriyle birlikte ekrana yazdırılır
+* Tüm çıktılar birimleriyle birlikte ekrana yazdırılır
 
 
 🖥️ Kullanım
